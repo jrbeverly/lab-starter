@@ -1,8 +1,8 @@
 # Metadata for your course
 
-title: [POC] Learning Godot with C#
-tagline:        # a short description for your Learning Lab course, displayed on the course catalog
-description:    # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Learning Godot with C#
+tagline: Learning Godot with C#
+description: Build a game with Godot and C#
 
 # Repository setup
 # The following section template information for the repository
