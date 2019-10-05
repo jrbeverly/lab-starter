@@ -16,9 +16,9 @@ template:
 # Actions to take place after the learner registers, but before they start interacting with their repo
 
 before:
-- type:         # the type of action, full list at https://lab.github.com/docs/actions/
-                # some actions require additional options, those should appear below `type:`
-                # you can execute multiple actions in the `before` block
+- type: createIssue
+  title: Welcome to Repository
+  body: # Welcome!\n\n :running_woman: If you look around this repository, you'll find a few standard template files in your Code tab. These contain most of what you need to get a Learning Lab course up and running. You can take this code as-is and create a Learning Lab course on your own. 
 
 # Steps for the course
 # A list of steps that take the learner through the course
