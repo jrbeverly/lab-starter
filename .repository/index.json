@@ -11,5 +11,7 @@
     "github",
     "github-learning-lab"
   ],
-  "languages": []
+  "languages": [
+    "Dockerfile"
+  ]
 }
