@@ -1,0 +1,15 @@
+slug: lab-starter
+description: GitHub Learning Lab Tutorial on 'Write a Learning Lab course'
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2019
+topics: |-
+  [
+    "github",
+    "github-learning-lab"
+  ]
